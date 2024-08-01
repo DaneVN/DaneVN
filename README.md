@@ -1,4 +1,4 @@
-
+![banner2](https://github.com/user-attachments/assets/df3a6811-2f37-40e2-9db4-4ad6a890f59f)
 ### Hi there👋. I'm Dané van Niekerk
 #### Web Development & UI/UX
 
