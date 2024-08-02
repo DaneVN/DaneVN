@@ -10,7 +10,7 @@ Skills: JS / HTML / CSS
 - 🔭 I’m currently working on finishing my CodeSpace course 
 - 🌱 I’m currently learning CSS/HTML/JS 
 - 💬 Ask me about anything 
-- 📫 How to reach me: Links include in this README file 
+- 📫 Email: Dane.vN23@gmail.com
 - ⚡ Fun fact: Python was not named after a snake. 
 
 ---
@@ -20,6 +20,6 @@ Skills: JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.![banner2](https://github.com/user-attachments/assets/d2ab6a15-06a3-4507-96ee-bb7aa8e00774)
 ![banner1](https://github.com/user-attachments/assets/b2983829-4973-46d7-bbcc-394bb6c78a88)
-vercel.app/api/top-langs/?username=https://github.com/DaneVN)](https://github.com/anuraghazra/github-readme-stats)
+vercel.app/api/top-langs/?username=https://github.com/DaneVN)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/DaneVN&show_icons=true)-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/DaneVN&show_icons=true)
