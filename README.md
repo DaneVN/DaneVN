@@ -22,4 +22,4 @@ Skills: JS / HTML / CSS
 ![banner1](https://github.com/user-attachments/assets/b2983829-4973-46d7-bbcc-394bb6c78a88)
 vercel.app/api/top-langs/?username=https://github.com/DaneVN)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/DaneVN&show_icons=true)
+[![Dane's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaneVN)](https://github.com/DaneVN/github-readme-stats)
