@@ -2,14 +2,12 @@
 # **Hello World**👋. 
 ### You can call me Dané.
 #### Web Development & UI/UX
-<!--![DancingCat](https://github.com/user-attachments/assets/1135264a-fdef-4918-882c-f97c4a26934d)-->
-<img src="https://github.com/user-attachments/assets/1135264a-fdef-4918-882c-f97c4a26934d" alt="Dancing Cat" width="auto" height="100"/>
 
-I am a full-time CodeSpace Student currently hard at work studying web development. I prefer to work on front-end development, but can and will conquer front-end development if it is required for a project 💪, 
+I am a Software Developer specializing in React.js, JavaScript, and CSS/HTML, with a passion for crafting user-friendly web experiences. After completing a six-month Software Development course at CodeSpace Academy, I’m now expanding my skills in backend programming with C#. I thrive on learning new technologies and delivering impactful solutions.
 ---
 
 ## Tech Stack🧰
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg" alt="React Router Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/reactnavigation/reactnavigation-original.svg" alt="React Navigation Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" alt="Firebase Logo" width="50" height="50"/>
 
 ---
 <!-- NOT UP TO DATE -->
@@ -18,7 +16,7 @@ I am a full-time CodeSpace Student currently hard at work studying web developme
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaneVN)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-- 🔭 I’m currently working on finishing my CodeSpace course 
+- 🔭 I’m currently working on a C# (backend)  
 - 🌱 I’m currently learning CSS/HTML/JS
 - 💬 Ask me about anything 
 - 📫 **Email: Dane.vN23@gmail.com**
