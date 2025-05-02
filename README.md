@@ -3,11 +3,11 @@
 ### You can call me Dané.
 #### Web Development & UI/UX
 
-I am a Software Developer specializing in React.js, JavaScript, and CSS/HTML, with a passion for crafting user-friendly web experiences. After completing a six-month Software Development course at CodeSpace Academy, I’m now expanding my skills in backend programming with C#. I thrive on learning new technologies and delivering impactful solutions.
+I am a Software Developer specializing in React.js, JavaScript, and CSS/HTML, with a passion for crafting user-friendly web experiences. After completing a six-month Software Development course at CodeSpace Academy, I’m now expanding my skills in backend programming with C# and SQL (Specifically, PostgreSQL). I thrive on learning new technologies and delivering impactful solutions.
 ---
 
 ## Tech Stack🧰
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg" alt="React Router Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/reactnavigation/reactnavigation-original.svg" alt="React Navigation Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" alt="Firebase Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg" alt="React Router Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/reactnavigation/reactnavigation-original.svg" alt="React Navigation Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" alt="Firebase Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C-sharp Logo" width="50" height="50"/>
 
 ---
 <!-- NOT UP TO DATE -->
@@ -16,8 +16,8 @@ I am a Software Developer specializing in React.js, JavaScript, and CSS/HTML, wi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaneVN)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-- 🔭 I’m currently working on a C# (backend)  
-- 🌱 I’m currently learning CSS/HTML/JS
+- 🔭 I’m currently working on a Landing page for a real estate financing company
+- 🌱 I’m currently learning SQL
 - 💬 Ask me about anything 
 - 📫 **Email: Dane.vN23@gmail.com**
 - ⚡ Fun fact: Python was not named after a snake :(
