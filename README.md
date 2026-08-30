@@ -10,17 +10,10 @@ I am a Software Developer specializing in React.js, JavaScript, and CSS/HTML, wi
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg" alt="React Router Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/reactnavigation/reactnavigation-original.svg" alt="React Navigation Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" alt="Firebase Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C-sharp Logo" width="50" height="50"/>
 
 ---
-<!-- NOT UP TO DATE -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=DaneVN)](https://github.com/ryo-ma/github-profile-trophy)
-[![Dane's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaneVN)](https://github.com/DaneVN/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaneVN)](https://github.com/anuraghazra/github-readme-stats)
----
 
-- 🔭 I’m currently working on a Landing page for a real estate financing company
-- 🌱 I’m currently learning SQL
-- 💬 Ask me about anything 
-- 📫 **Email: Dane.vN23@gmail.com**
-- ⚡ Fun fact: Python was not named after a snake :(
+- 🔭 I’m currently working on rebooted mobile web app for a real estate compoany
+- 🌱 I’m currently learning PostgreSQL
+- 📫 **Email: Dane.vN23@gmail.com** - ask me anything
   
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DaneVN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dané-van-niekerk-8a1982317/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/DaneVN)  
